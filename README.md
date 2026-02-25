@@ -1,6 +1,7 @@
 # 🏃‍♂️🚶 Run & Walk Classification using Machine Learning
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cfc2727-1e7a-4787-8763-b9047508c824" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/25dc4610-0de6-46b3-8206-04e4fe510460" />
+
 
 
 ## 📌 Project Overview
